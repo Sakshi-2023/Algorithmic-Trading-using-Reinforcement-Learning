@@ -1,6 +1,6 @@
 # Algorithmic Trading using Reinforcement Learning
 
-## 📈 Overview
+## Overview
 This repository focuses on building **algorithmic trading strategies using Reinforcement Learning (RL)**.  
 The goal is to train RL agents that can autonomously make trading decisions (Buy, Sell, Hold) by learning from historical market data and maximizing long-term rewards (profits).
 
@@ -8,7 +8,7 @@ The project explores and compares **value-based** and **policy-based** reinforce
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 | File | Description |
 |-----|------------|
@@ -18,7 +18,7 @@ The project explores and compares **value-based** and **policy-based** reinforce
 
 ---
 
-## 🧠 Reinforcement Learning Approach
+## Reinforcement Learning Approach
 
 In this project:
 - The **environment** simulates a financial market.
@@ -30,7 +30,7 @@ Over time, the agent learns a policy that maximizes cumulative returns.
 
 ---
 
-## 🚀 Implemented Algorithms
+## Implemented Algorithms
 
 ### 🔹 Deep Q-Network (DQN)
 - Value-based reinforcement learning algorithm
